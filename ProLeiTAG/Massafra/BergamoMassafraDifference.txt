@@ -1,0 +1,11 @@
+﻿ZWebBatchCockpitCIPBatchScript : 
+Week Serial -> WeekSerial
+Month Serial -> MonthSerial
+
+ZWebBatchOverview: 
+Breline -> BrewLine
+
+ZWebBatchCockpitSAP:
+Keyrange 990001900000000 - > 990009900000000
+
+NextDiff:
